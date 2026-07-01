@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6i0203/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0203/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說婦人遇辜經
+  identifiers:
+    krp: KR6i0203
+    cbeta: T14n0571
+    cbeta_old_id: T14n0571
+    authorityid: CA0001124
+    json_key: T0571
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0571.xml
+    old_id: T14n0571
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0203_000-T.yaml, hash: 'sha256:7baf666f710f2bb7adf1cdadcf0f543b74baf49aabfc5b6b3167b7bdd989a20d'}
+  - {seq: 1, filename: KR6i0203_001-T.yaml, hash: 'sha256:202b2f3468273a34660a3015bfcec3d00f423a77f515462bfbec7e7ee2f9893e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0203_000-T.markers.yaml, hash: 'sha256:80caa170e1a8c8e37f709a296da37beef20ecb373382cda8a5a0013eed6f9184'}
+  - {seq: 1, role: markers, filename: assets/KR6i0203_001-T.markers.yaml, hash: 'sha256:c264ccfb29e8580e8d6bdbaa4b3996969c824f384d55610980e649d24225adfb'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0203_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 607
+  label: 佛說婦人遇辜經
+  type: juan
+  level: 1
+hash: sha256:91c276deffb3b3fcf05da9b454279bbe824167f711d74f950dc902f8b9275c5f

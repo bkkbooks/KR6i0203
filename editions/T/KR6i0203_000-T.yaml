@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0203/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說婦人遇辜經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0571.xml
+    old_id: T14n0571
+hash: sha256:7baf666f710f2bb7adf1cdadcf0f543b74baf49aabfc5b6b3167b7bdd989a20d
