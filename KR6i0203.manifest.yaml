@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0203_000.yaml, hash: 'sha256:7baf666f710f2bb7adf1cdadcf0f543b74baf49aabfc5b6b3167b7bdd989a20d'}
-  - {seq: 1, filename: KR6i0203_001.yaml, hash: 'sha256:07637abfe8bec76b586f36a3908a71bc17c47d2f811bf31d541f542e3102f73f'}
+  - {seq: 1, filename: KR6i0203_001.yaml, hash: 'sha256:202b2f3468273a34660a3015bfcec3d00f423a77f515462bfbec7e7ee2f9893e'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0203_001.markers.yaml, hash: 'sha256:460fe8d0f010ebfa7b5388c29a8e924241dc42ae1db3a1fd96e2bd5517a4581b'}
+  - {seq: 0, role: markers, filename: assets/KR6i0203_000.markers.yaml, hash: 'sha256:b74a3be906496d7d655a1deb339de3422ae54b942666ec39045f48ff717a4a63'}
+  - {seq: 1, role: markers, filename: assets/KR6i0203_001.markers.yaml, hash: 'sha256:2b2a872aadb0dd80bd60060fb68df8b372f8043e4a8553ddc7115f879d51d6fc'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 佛說婦人遇辜經
   type: juan
   level: 1
-hash: sha256:eab2850b6a687748ba379c75f99c9a3605611faea6fc256be21aeac234d558d5
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:264c44b2f849f8aa92bc4d88194f37f5a2af2f452a1d738bceac120f023c33db
