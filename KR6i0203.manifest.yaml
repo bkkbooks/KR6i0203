@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0203/v1
 canonical_location: https://kanripo.org/bkk/KR6i0203/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說婦人遇辜經
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0203_000.yaml, hash: 'sha256:7baf666f710f2bb7adf1cdadcf0f543b74baf49aabfc5b6b3167b7bdd989a20d'}
-  - {seq: 1, filename: KR6i0203_001.yaml, hash: 'sha256:202b2f3468273a34660a3015bfcec3d00f423a77f515462bfbec7e7ee2f9893e'}
+  - {seq: 1, filename: KR6i0203_001.yaml, hash: 'sha256:3832febe511538dfa916f9016d1b0129c3521edc82576952c117b0d57e8ea24f'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0203_000.markers.yaml, hash: 'sha256:b74a3be906496d7d655a1deb339de3422ae54b942666ec39045f48ff717a4a63'}
-  - {seq: 1, role: markers, filename: assets/KR6i0203_001.markers.yaml, hash: 'sha256:2b2a872aadb0dd80bd60060fb68df8b372f8043e4a8553ddc7115f879d51d6fc'}
+  - {seq: 1, role: markers, filename: assets/KR6i0203_001.markers.yaml, hash: 'sha256:52d76d38ce19870d131dfd6b73899485a8ec9655a340060004216e464e79f76a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -49,4 +49,7 @@ table_of_contents:
   label: 佛說婦人遇辜經
   type: juan
   level: 1
-hash: sha256:264c44b2f849f8aa92bc4d88194f37f5a2af2f452a1d738bceac120f023c33db
+hash: sha256:3b01b17cd72ae243933b6acfd799e39b0f151cde1fc5ead6d475e778d91be583
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
